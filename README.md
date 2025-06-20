@@ -79,7 +79,7 @@ Edit
 
 5.Press Q to quit.
 
-**DISTANCE ESTIMATION**
+##**DISTANCE ESTIMATION**
 Uses the formula:
 
 ini
@@ -102,7 +102,7 @@ Where:
 
 >Tesseract OCR
 
-📌 Future Enhancements
+##📌 Future Enhancements
 *Add wearable version (smart glasses)
 
 *Enable vibration feedback for hearing-impaired users
